@@ -1,2 +1,22 @@
-# Musicology-Warehouse
-Full-stack PHP &amp; MySQL web app for managing music inventory, users, and orders. Features role-based access, authentication, album management, shopping cart, and checkout with invoices. Refactored using structured architecture for scalability and maintainability.
+# Musicology Warehouse 🎵
+
+## Overview
+A PHP-based music inventory and e-commerce system that we created in our year 3 of Systems Development. Refactored to imporove slighly
+
+## Features
+- User authentication
+- Cart system
+- Album browsing
+- Checkout system
+
+## Tech Stack
+- PHP
+- MySQL
+- JavaScript
+- HTML/CSS
+
+## Setup
+1. Clone repo
+2. Import database
+3. Configure DB in app/config/database.php
+4. Run via XAMPP or AMPPS
